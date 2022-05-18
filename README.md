@@ -1,4 +1,4 @@
--  Hi, I’m @shahjalalDG360
+-  Hi, I’m Mohammad Shahjalal
 -  Working as a Junior Software Engineer (Frontend Developer) at DigiGate360 Ltd. in Bangladesh.
 -  I have experienced in React JS, Node JS, Express JS, MongoDB, Rest API etc.
 -  I’m currently learning Next JS, Java, Spring Boot.
